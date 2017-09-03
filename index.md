@@ -5,6 +5,10 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
+<<<<<<< HEAD
+=======
+[Link to another page2](another-page 2).
+>>>>>>> 368d7da271c3c201c90eee3c7f8fd7d4ef4ff089
 
 There should be whitespace between paragraphs.
 

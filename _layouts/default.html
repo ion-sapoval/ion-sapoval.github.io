@@ -21,8 +21,10 @@
     <main class="main-content">
         {{ content }}
         
+        {% if page.url != '/about.html' %}
         <div id="disqus_thread"></div>
-
+        {% endif %} 
+        
         <footer class="site-footer">
             {% if site.github.is_project_page %}
             <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
@@ -68,6 +70,8 @@
         </section>
     </footer>
 </aside>
+
+{% if page.url != '/about.html' %}
     
 <script>
 
@@ -85,6 +89,7 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+
+{% endif %}                          
 </body>
 </html>

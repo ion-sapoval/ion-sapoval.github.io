@@ -1,14 +1,8 @@
-﻿---
-layout: default
-title: About Me
----
-
-[Home](/)
-
-Hi! My name is Ion Şapoval.
-I'm a software consultant from Bucharest, Romania. 
-I have 10 years of experience in working with .Net technologies.
-Currently I'm **Head of Technical Development at DCypher Media**.
+﻿Hi!  
+My name is Ion Şapoval.  
+I'm a software consultant from Bucharest, Romania.  
+I have 10 years of experience in working with .Net technologies.  
+Currently I'm **Head of Technical Development at DCypher Media**.  
 
 # Public projects
 

@@ -11,7 +11,7 @@ layout: home
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
-[Link to another page2](another-page2).
+[Link to another page2](another-page 2).
 
 There should be whitespace between paragraphs.
 

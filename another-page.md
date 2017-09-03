@@ -1,4 +1,6 @@
-
+---
+layout: 
+---
 
 ## Welcome to another page
 test

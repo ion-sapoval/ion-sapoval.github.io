@@ -1,6 +1,4 @@
----
-layout: dafault
----
+
 
 ## Welcome to another page
 test

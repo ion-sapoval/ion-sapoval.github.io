@@ -1,18 +1,24 @@
+﻿---
+layout: default
+title: About Me
+permalink: /about-me/
 ---
-layout: page
-title: About
-permalink: /about/
----
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Home](/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! My name is Ion Şapoval.
+I'm a software consultant from Bucharest, Romania. 
+I have 10 years of experience in working with .Net technologies.
+Currently I'm **Head of Technical Development at DCypher Media**.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Public projects
 
+  - [google-measurement-protocol-dotnet](https://github.com/ion-sapoval/google-measurement-protocol-dotnet)
+  - [NSAPConnector](https://github.com/ion-sapoval/NSAPConnector)
+  - [PostRequestFactory](https://github.com/ion-sapoval/PostRequestFactory)
+ 
+ ![profile picture](/assets/img/my profile picture.jpg "Ion Sapoval")
+ [<img src="/assets/img/linkedin.jpg" alt="linkedin" border="0" style="height:38px;width:38px;"/>](https://www.linkedin.com/in/ion-sapoval-4900056)
+ [<img src="/assets/img/twitter.png" alt="twitter" border="0" style="height:40px;width:40px;"/>](http://twitter.com/ion_sapoval)
+ 
 
-[jekyll-organization]: https://github.com/jekyll

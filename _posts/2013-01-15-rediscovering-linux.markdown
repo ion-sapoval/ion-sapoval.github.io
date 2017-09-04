@@ -6,7 +6,7 @@ categories: linux
 ---
 
 # Rediscovering Linux
-![linux](/assets/img/linux.jpeg "Linux")
+![linux]({{ site.url }}/assets/img/linux.jpeg "Linux")
 
 Last week as a side effect of watching an interview with Linus Torvalds , which was phenomenal as usual, I ended up doing two unexpected things: 
 

@@ -7,7 +7,7 @@ categories: javascript framework twitter
 
 # FlightJS - first contact
 
-![FlightJS](/assets/img/Flight.png "Flight")
+![FlightJS]({{ site.url }}/assets/img/Flight.png "Flight")
 
 Twitter developers made available to community another interesting JavaScript framework which has a great potential: “FlightJS”. This is Twitter’s team description of the product: “*Flight is a lightweight, component-based JavaScript framework that maps behavior to DOM nodes*”.
 I decided to take a closer look to this framework because of:

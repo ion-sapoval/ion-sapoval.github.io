@@ -16,7 +16,7 @@
 
 email: ion@sapoval.org
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ion-sapoval.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  ion-sapoval
 title: Thoughts Compiler
